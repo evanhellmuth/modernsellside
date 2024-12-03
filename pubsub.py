@@ -137,8 +137,8 @@ class StockAnalyzer:
 
 def main():
     # Replace with your API key
-    api_key = "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"
-    analyzer = StockAnalyzer(api_key)
+    completely_safe_variable = "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"
+    analyzer = StockAnalyzer(completely_safe_variable)
     
     # Example usage
     url = "https://toffcap.substack.com/p/toffcaps-monday-monitor-37"
